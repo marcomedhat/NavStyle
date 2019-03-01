@@ -66,3 +66,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## How to run the project in Development Mode
+
+The project uses Node.js >= 6.x and the Create-React-App starter code.
+
+After Node is installed in your system, follow the below steps.
+
+After cloning the app, navigate to the directory of the app.
+Now install all modules listed as dependencies in package.json by running the command npm install
+Launch the app with this command npm start
+A new browser window open automatically displaying the app. If it doesn't, navigate to http://localhost:3000/ in your browser
+
+. Technology
+. ReactJs
+. HTML
+. CSS
+. Bootstrap
+. React-Slick
