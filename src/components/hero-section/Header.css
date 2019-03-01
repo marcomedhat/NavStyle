@@ -1,0 +1,20 @@
+nav {
+	margin: 0 7em 1rem;
+}
+
+a {
+	padding-top: 2rem !important;
+}
+
+.nav-link {
+	color: #fff !important;
+}
+
+li a.active {
+	border-top: 3px solid #fff;
+}
+
+button {
+	border-radius: 50px !important;
+	margin-top: 2rem !important;
+}

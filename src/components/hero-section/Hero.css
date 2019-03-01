@@ -1,0 +1,6 @@
+.Hero {
+	background-image: url('/images/HeroBackground.png');
+	background-size: cover;
+	box-sizing: border-box;
+}
+
