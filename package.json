@@ -2,7 +2,7 @@
   "name": "navdesign",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://marcomedhat.github.io/NavStyle/",
+  "homepage": "https://marcomedhat.github.io/NavStyle",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",
     "@fortawesome/free-solid-svg-icons": "^5.7.2",
@@ -13,6 +13,7 @@
     "npm": "^6.8.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.5",
     "react-slick": "^0.23.2"
   },

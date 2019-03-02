@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Hero from "./hero-section/Hero";
 import FirstSlogan from "./slogan/FirstSlogan";
 import FirstSection from "./section1/FirstSection";
@@ -17,20 +18,22 @@ import "bootstrap/dist/css/bootstrap.min.css";
 class App extends Component {
   render() {
     return (
-      <div className="mh-100">
-        <Hero />
-        <FirstSlogan />
-        <FirstSection />
-        <SecondSlogan />
-        <SecondSection />
-        <SimpleSlider />
-        <ThirdSlogan />
-        <Grid />
-        <FourthSlogan />
-        <Map />
-        <Countries />
-        <Footer />
-      </div>
+      <Router basename={process.env.PUBLIC_URL}>
+        <div className="mh-100">
+          <Hero />
+          <FirstSlogan />
+          <FirstSection />
+          <SecondSlogan />
+          <SecondSection />
+          <SimpleSlider />
+          <ThirdSlogan />
+          <Grid />
+          <FourthSlogan />
+          <Map />
+          <Countries />
+          <Footer />
+        </div>
+      </Router>
     );
   }
 }
