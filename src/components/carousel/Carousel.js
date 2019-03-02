@@ -2,6 +2,9 @@ import React from "react";
 import Slider from "react-slick";
 import SliderArrow from "../Global/SliderArrow";
 import "./Carousel.css";
+import image1 from "./images/Layer498.png";
+import image2 from "./images/Layer497.png";
+import image3 from "./images/Layer496.png";
 
 class SimpleSlider extends React.Component {
 	render() {
@@ -19,32 +22,32 @@ class SimpleSlider extends React.Component {
 				<Slider {...settings}>
 					<div>
 						<a href="#">
-							<img src="/images/Layer498.png" alt="image1" />
+							<img src={image1} alt="image1" />
 						</a>
 					</div>
 					<div>
 						<a href="#">
-							<img src="/images/Layer497.png" alt="image1" />
+							<img src={image2} alt="image1" />
 						</a>
 					</div>
 					<div>
 						<a href="#">
-							<img src="/images/Layer496.png" alt="image1" />
+							<img src={image3} alt="image1" />
 						</a>
 					</div>
 					<div>
 						<a href="#">
-							<img src="/images/Layer498.png" alt="image1" />
+							<img src={image1} alt="image1" />
 						</a>
 					</div>
 					<div>
 						<a href="#">
-							<img src="/images/Layer497.png" alt="image1" />
+							<img src={image2} alt="image1" />
 						</a>
 					</div>
 					<div>
 						<a href="#">
-							<img src="/images/Layer496.png" alt="image1" />
+							<img src={image3} alt="image1" />
 						</a>
 					</div>
 				</Slider>
