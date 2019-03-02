@@ -1,5 +1,5 @@
 .slideshow {
-  background-image: url("/images/curved.png");
+  background-image: url("./images/curved.png");
   background-size: cover;
 }
 
