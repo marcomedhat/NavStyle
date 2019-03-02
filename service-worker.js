@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/NavStyle/public/precache-manifest.925dcf8bcb2dbe637b63946ad711c315.js"
+  "/navdesign/precache-manifest.7e28c72d010f0d86c0bd53bbe6da3df5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/NavStyle/public/index.html", {
+workbox.routing.registerNavigationRoute("/navdesign/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

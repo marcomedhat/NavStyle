@@ -1,15 +1,15 @@
 {
-  "main.css": "/NavStyle/public/static/css/main.04d32af7.chunk.css",
-  "main.js": "/NavStyle/public/static/js/main.ac525a51.chunk.js",
-  "main.js.map": "/NavStyle/public/static/js/main.ac525a51.chunk.js.map",
-  "runtime~main.js": "/NavStyle/public/static/js/runtime~main.c93bcb43.js",
-  "runtime~main.js.map": "/NavStyle/public/static/js/runtime~main.c93bcb43.js.map",
-  "static/css/2.ff499641.chunk.css": "/NavStyle/public/static/css/2.ff499641.chunk.css",
-  "static/js/2.a89ce6f6.chunk.js": "/NavStyle/public/static/js/2.a89ce6f6.chunk.js",
-  "static/js/2.a89ce6f6.chunk.js.map": "/NavStyle/public/static/js/2.a89ce6f6.chunk.js.map",
-  "index.html": "/NavStyle/public/index.html",
-  "precache-manifest.925dcf8bcb2dbe637b63946ad711c315.js": "/NavStyle/public/precache-manifest.925dcf8bcb2dbe637b63946ad711c315.js",
-  "service-worker.js": "/NavStyle/public/service-worker.js",
-  "static/css/2.ff499641.chunk.css.map": "/NavStyle/public/static/css/2.ff499641.chunk.css.map",
-  "static/css/main.04d32af7.chunk.css.map": "/NavStyle/public/static/css/main.04d32af7.chunk.css.map"
+  "main.css": "/navdesign/static/css/main.04d32af7.chunk.css",
+  "main.js": "/navdesign/static/js/main.9f416b1c.chunk.js",
+  "main.js.map": "/navdesign/static/js/main.9f416b1c.chunk.js.map",
+  "runtime~main.js": "/navdesign/static/js/runtime~main.0ca69998.js",
+  "runtime~main.js.map": "/navdesign/static/js/runtime~main.0ca69998.js.map",
+  "static/css/2.ff499641.chunk.css": "/navdesign/static/css/2.ff499641.chunk.css",
+  "static/js/2.a89ce6f6.chunk.js": "/navdesign/static/js/2.a89ce6f6.chunk.js",
+  "static/js/2.a89ce6f6.chunk.js.map": "/navdesign/static/js/2.a89ce6f6.chunk.js.map",
+  "index.html": "/navdesign/index.html",
+  "precache-manifest.7e28c72d010f0d86c0bd53bbe6da3df5.js": "/navdesign/precache-manifest.7e28c72d010f0d86c0bd53bbe6da3df5.js",
+  "service-worker.js": "/navdesign/service-worker.js",
+  "static/css/2.ff499641.chunk.css.map": "/navdesign/static/css/2.ff499641.chunk.css.map",
+  "static/css/main.04d32af7.chunk.css.map": "/navdesign/static/css/main.04d32af7.chunk.css.map"
 }
